@@ -13,7 +13,7 @@ a screen time management app using Apple's Family Controls API.
 
 ---
 
-### Projects
+### Highlighted Projects
 | Project | Stack | Status |
 |---|---|---|
 | [Serenity](https://github.com/MohamedSefyaniLakrizi/Serenity---Screen-Management-App) | React Native · Swift · Family Controls API · PostHog | In development |
