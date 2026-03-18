@@ -16,9 +16,9 @@ a screen time management app using Apple's Family Controls API.
 ### Projects
 | Project | Stack | Status |
 |---|---|---|
-| [Serenity](link) | React Native · Swift · Family Controls API · PostHog | In development |
-| [Real Estate Marketplace](link) | Nuxt.js · pgvector · AWS Bedrock · PostGIS | Active |
-| [Client Management Platform](link) | Next.js · PostgreSQL · Prisma · Jitsi | Shipped |
+| [Serenity]([link](https://github.com/MohamedSefyaniLakrizi/Serenity---Screen-Management-App)) | React Native · Swift · Family Controls API · PostHog | In development |
+| [Real Estate Marketplace]([link](https://nwi.ma/)) | Nuxt.js · pgvector · AWS Bedrock · PostGIS | Active |
+| [Client Management Platform]([link](https://mohamedsefyani.pro/axiom-labs)) | Next.js · PostgreSQL · Prisma · Jitsi | Shipped |
 
 ---
 
