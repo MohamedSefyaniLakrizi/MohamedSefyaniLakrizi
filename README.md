@@ -1,16 +1,25 @@
-## Hi there 👋
+## Mohamed Sefyani Lakrizi
+Full-stack software engineer based in London. MSc Computing (Distinction).
+I build web platforms and iOS apps — currently focused on shipping Serenity,
+a screen time management app using Apple's Family Controls API.
 
-<!--
-**MohamedSefyaniLakrizi/MohamedSefyaniLakrizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently working on:** Serenity (iOS) · Real estate marketplace (AI search)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+`TypeScript` `Python` `Swift` `Node.js` `PostgreSQL` `React` `Next.js` `React Native`  
+`pgvector` `PostGIS` `AWS Bedrock` `Expo/EAS` `Apple Family Controls API`
+
+---
+
+### Projects
+| Project | Stack | Status |
+|---|---|---|
+| [Serenity](link) | React Native · Swift · Family Controls API · PostHog | In development |
+| [Real Estate Marketplace](link) | Nuxt.js · pgvector · AWS Bedrock · PostGIS | Active |
+| [Client Management Platform](link) | Next.js · PostgreSQL · Prisma · Jitsi | Shipped |
+
+---
+
+📫 mohamedsefyani@gmail.com · [mohamedsefyani.pro](https://mohamedsefyani.pro)
